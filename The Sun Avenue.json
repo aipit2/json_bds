@@ -1,0 +1,194 @@
+{
+  "post_data": {
+    "title": "Tiêu đề",
+    "content": "Nội dung",
+    "estate": {
+      "id": 5,
+      "parent_id": 42,
+      "title": "Cho thuê căn hộ chung cư",
+      "title_make_page": "Cho thuê căn hộ chung cư",
+      "template_type": "apartment",
+      "slug": "cho-thue-can-ho-chung-cu",
+      "post_type": "thue",
+      "limit": 6,
+      "offset": 0,
+      "url": "/cho-thue-can-ho-chung-cu.html"
+    },
+    "post_type": "thue",
+    "project": {
+      "id": 450,
+      "title": "The Sun Avenue",
+      "short_title": "The Sun Avenue",
+      "summary": "<p><strong><a title=\"The Sun Avenue\" href=\"https://bds123.vn/ban-can-ho-chung-cu-the-sun-avenue-quan-2.html\">The Sun Avenue</a></strong> là dự án do Novaland Group làm chủ đầu tư tọa lạc tại 28 Đường Mai Chí Thọ, Phường An Phú, Quận 2, Hồ Chí Minh. Ngay tại trung tâm hành chính Thủ Thiêm và trải dài hơn 500m mặt tiền đại lộ Mai Chí Thọ. The Sun Avenue sở hữu vị trí giao thông liên vùng thuận tiện, tâm điểm của các tuyến đường huyết mạch: cao tốc Long Thành - Dầu Giây, tuyến đường vành đai trong và kết nối trực tiếp với hầm Thủ Thiêm để đến trung tâm Quận 1...</p>",
+      "featured_image": "https://static123.com/uploads/images/thumbs/450x300/fit/2017/06/20/the-sun-avenue_1497958841.jpg",
+      "estate": {
+        "id": 14,
+        "parent_id": 0,
+        "title": "Căn hộ chung cư",
+        "title_make_page": "Căn hộ chung cư",
+        "template_type": null,
+        "slug": "can-ho-chung-cu",
+        "post_type": "duan",
+        "limit": 6,
+        "offset": 0,
+        "url": "/du-an/can-ho-chung-cu-p143093.html"
+      },
+      "province": {
+        "id": 1,
+        "name": "Hồ Chí Minh"
+      },
+      "district": {
+        "id": 14,
+        "name": "Quận 2"
+      },
+      "ward": {
+        "id": 184,
+        "name": "Phường An Phú"
+      },
+      "street": {
+        "id": 1960,
+        "name": "Đường Mai Chí Thọ"
+      },
+      "address": "28 Đường Mai Chí Thọ, Phường An Phú, Quận 2, Hồ Chí Minh",
+      "street_number": null,
+      "map_lat": "10.784903821391874",
+      "map_long": "106.74816704597174",
+      "url": "/du-an/the-sun-avenue.html",
+      "more_link": {
+        "buy_aparment_link": "/ban-can-ho-chung-cu-the-sun-avenue-quan-2.html",
+        "rent_aparment_link": "/cho-thue-can-ho-chung-cu-the-sun-avenue-quan-2.html"
+      }
+    },
+    "province": {
+      "id": 1,
+      "name": "Hồ Chí Minh"
+    },
+    "district": {
+      "id": 14,
+      "name": "Quận 2"
+    },
+    "ward": {
+      "id": 184,
+      "name": "Phường An Phú"
+    },
+    "street": {
+      "id": 1960,
+      "name": "Đường Mai Chí Thọ"
+    },
+    "address": "28 Đường Mai Chí Thọ, Phường An Phú, Quận 2, Hồ Chí Minh",
+    "images": [
+      {
+        "id": 856086,
+        "extension": "jpg",
+        "filename": "dgas-184-193_1597467342",
+        "orginal_filename": "dgas (184)_193.jpg",
+        "width": 1280,
+        "height": 960,
+        "size": 198199,
+        "image_full_url": "https://static123.com/uploads/images/2020/08/15/dgas-184-193_1597467342.jpg",
+        "image_path": "2020/08/15/dgas-184-193_1597467342.jpg"
+      },
+      {
+        "id": 856094,
+        "extension": "jpg",
+        "filename": "bdajhsgdasqwe-4_1597467622",
+        "orginal_filename": "bdajhsgdasqwe (4).jpg",
+        "width": 1600,
+        "height": 1200,
+        "size": 346222,
+        "image_full_url": "https://static123.com/uploads/images/2020/08/15/bdajhsgdasqwe-4_1597467622.jpg",
+        "image_path": "2020/08/15/bdajhsgdasqwe-4_1597467622.jpg"
+      }
+    ],
+    "price": "13.000.000",
+    "dien_tich": "56",
+    "unit": {
+      "id": 20,
+      "title": "đồng/tháng"
+    },
+    "infomation": {
+      "acreage": "56",
+      "acreage_residential": null,
+      "chieu_ngang": null,
+      "chieu_dai": null,
+      "bedroom": "1",
+      "toilet": "1"
+    },
+    "advance_infomation": null,
+    "map_lat": "10.784903821391874",
+    "map_long": "106.74816704597174",
+    "status": "draft",
+    "gia_thoa_thuan": 0,
+    "expands": {
+      "gioi_tinh": 0,
+      "nguoi_di_lam": true,
+      "ho_gia_dinh": true,
+      "sinh_vien": true,
+      "san_go": 0,
+      "sofa": 0,
+      "bep": 0,
+      "tu_bep": 0,
+      "giuong_ngu": 0,
+      "dem": 0,
+      "ban_an": 0,
+      "ban_lam_viec": 0,
+      "ban_trang_diem": 0,
+      "tu_quan_ao": 0,
+      "tivi": 0,
+      "thiet_bi_am_thanh": 0,
+      "may_giat": 0,
+      "tu_lanh": 0,
+      "may_lanh": 0,
+      "lo_vi_song": 0,
+      "may_nuoc_nong": 0,
+      "internet": 0,
+      "truyen_hinh_cab": 0,
+      "thang_may": 0,
+      "ho_boi": 0,
+      "sieu_thi_mini": 0,
+      "trung_tam_y_te": 0,
+      "gym": 0,
+      "spa": 0,
+      "phong_tap_yoga": 0,
+      "san_choi_cau_long": 0,
+      "san_choi_tennis": 0,
+      "nha_tre_noi_khu": 0,
+      "cho_phep_nuoi_thu_cung": 0,
+      "bai_oto": 0,
+      "cong_vien": 0,
+      "camera": 0
+    },
+    "vip": {
+      "package": {
+        "id": 256,
+        "title": "Tin miễn phí",
+        "description": "",
+        "estate_id": 5,
+        "price": "0",
+        "price_week": "0",
+        "price_month": "0",
+        "price_extend": "0",
+        "price_up": 1000,
+        "price_text": "miễn phí",
+        "minday": 5,
+        "color": "#055699",
+        "css_class": "free_package",
+        "code": "free",
+        "number_star": 0,
+        "ordering": 0,
+        "created_at": "22/03/2017"
+      },
+      "time": 5,
+      "time_type": "day",
+      "label": 0
+    },
+    "current_step": "thanh_toan",
+    "previous_step": "",
+    "street_number": "",
+    "payment_method": "account"
+  },
+  "track_data": {
+    "width": 1536,
+    "height": 775
+  }
+}
